@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config/params.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controllers/SiteController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mail/layouts/html.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mail/resetPassword.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/Connection.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/LoginForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/RegForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/ResetPasswordForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/SendEmailForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/site/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/site/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/site/resetPassword.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/site/sendEmail.php" charset="UTF-8" />
+  </component>
+</project>
